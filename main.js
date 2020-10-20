@@ -13,5 +13,11 @@ function check(){
     if(q3=="b"){
         counter++;
     }
+    if(q4=="d"){
+        counter++;
+    }
+    if(q4=="c"){
+        counter++;
+    }
     alert("Your score is "+counter+"/3 marks.")
 }
