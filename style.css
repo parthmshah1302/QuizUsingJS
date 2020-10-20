@@ -38,7 +38,7 @@ body{
     max-height: 88%;
     font-size: medium;
     font-weight: bold;
-    
+    margin-left: 45%;
 }
 .footer{
     position: fixed;
@@ -51,4 +51,9 @@ body{
     margin-bottom: 5px;
     color: azure;
     font-weight: 100;
+}
+.btn:hover{
+    border-color: #00969e;
+    background-color: azure;
+    color: black;
 }
