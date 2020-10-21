@@ -1,5 +1,7 @@
 # Quiz using JavaScript
 
+https://parthmshah1302.github.io/QuizUsingJS/
+
 You will see the Multiple-choice quetions with their radio buttons. You can choose your correct answer and submit.
 
 ![alt text](https://github.com/parthmshah1302/QuizUsingJS/blob/main/Screenshots/1.png)
