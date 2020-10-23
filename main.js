@@ -21,5 +21,6 @@ function check(){
     if(q5=="c"){
         counter++;
     }
+    
     alert("Your score is "+counter+"/5 marks.")
 }
