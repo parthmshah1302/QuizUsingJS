@@ -1,6 +1,7 @@
 # Quiz using JavaScript
 
-https://parthmshah1302.github.io/QuizUsingJS/
+<p align="center" style="font-size:160%;"><b><a  href="https://parthmshah1302.github.io/QuizUsingJS/"> Play around the webapp yourself</b></a></p>
+
 
 You will see the Multiple-choice quetions with their radio buttons. You can choose your correct answer and submit.
 
